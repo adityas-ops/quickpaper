@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/welcomeLogo.png",
         "backgroundColor": "#121c22"
-      }
+      },
+      "package": "com.adityaops.quickpaper"
     },
     "web": {
       "bundler": "metro",
